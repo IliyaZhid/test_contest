@@ -1,1 +1,1 @@
-# test_contest
+Попытки пройти пробный контест от яндекса https://contest.yandex.ru/
